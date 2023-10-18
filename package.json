@@ -1,0 +1,20 @@
+{
+  "name": "clase14_nodejs",
+  "version": "1.0.0",
+  "description": "first backend class  nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "curso",
+    "intro",
+    "node",
+    "js"
+  ],
+  "author": "Nacho Rey",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
